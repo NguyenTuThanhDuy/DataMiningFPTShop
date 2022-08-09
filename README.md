@@ -6,3 +6,5 @@ Automation on data mining on mobile phone category of "https://fptshop.com.vn/" 
 
 
 Find element and take a screenshot with library and write to file
+
+Example of using regex , selenium { scroll , click , find_element by [xpath , classname , id] , wait , explicit condition , screenshot , .text }
