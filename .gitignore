@@ -1,0 +1,4 @@
+/__pycache__
+/.pytest_cache
+/crawler/__pycache__
+*.log
